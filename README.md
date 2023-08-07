@@ -20,6 +20,13 @@ yarn create react-app my-app --template redux
 
 Setup Tailwind CLI
 
+Next step , start JSON Server
+
+```sh
+json-server --watch data.json --port 8080
+
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
